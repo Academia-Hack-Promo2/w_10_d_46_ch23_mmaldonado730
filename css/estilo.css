@@ -11,6 +11,7 @@ body{
 }
 #logo{
   text-align: center;
+  margin-bottom: 30px;
 }
 .titulo{
   font-family: 'Poiret One', cursive;
@@ -28,18 +29,70 @@ body{
 .margen-boton1{
   margin-left: 80px;
   margin-top: 100px;
+  margin-bottom: 100px;
 }
 .margen-boton2{
   margin-left: 20px;
   margin-top: 100px;
+  margin-bottom: 100px;
 
 }
 .margen-boton3{
   margin-left: 10px;
   margin-top: 42px;
-
+  margin-bottom: 100px;
 }
 .margen-boton4{
   margin-left: 10px;
   margin-top: 42px;
+  margin-bottom: 100px;
+}
+
+hr{
+  width: 90%;
+  margin-bottom: 20px;
+}
+
+.linea-l{
+  width: 60%;
+  margin-right: 55px;
+}
+
+.titulo2{
+  font-family: 'Poiret One', cursive;
+  color: #FFF;
+  text-align: center;
+  font-size: 25px; 
+}
+
+.btn-default2 {
+  color: #FFF;
+  background-color: #021677;
+  border-color: #ccc;
+  width: 150px;
+  height: 50px;
+}
+
+
+.margen-boton2-2{
+  margin-left: 80px;
+  margin-top: 100px;
+  margin-bottom: 100px;
+
+}
+.margen-boton3-2{
+  margin-left: 10px;
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+.margen-boton4-2{
+  margin-left: 10px;
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+
+#pie_pagina{
+  text-align: center;
+  color: #FFF;
+  margin-bottom: 20px;
 }
